@@ -10,7 +10,7 @@ This is the perfect representation of [Emily](https://www.pexels.com/photo/brown
 
 ```js
 function lital() {
-console.log("Hello");
+     console.log("Hello");
 }
 ```
 
