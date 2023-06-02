@@ -8,5 +8,10 @@ Emily eats all my food. In fact, she eats all the bananas I like having on a dai
 
 This is the perfect representation of [Emily](https://www.pexels.com/photo/brown-monkey-321552/).
 
+```js
+function lital() {
+console.log("Hello");
+}
+```
 
 
