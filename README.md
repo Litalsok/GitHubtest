@@ -1,20 +1,12 @@
-# GitHubtest
-Hi
+# Model demo website
+This repository contains a demo website for a model that can be used to show 3D mouse movements.
 
-## My Name is Lital Sokolsky 
+Prior to running the demo, ensure that the model file/s are placed in the 'models' folder with appropriate names.
 
-I have a little sister. Her name is, Emily. 
-Emily eats all my food. In fact, she eats all the bananas I like having on a daily basis. 
+To run the mouse demo website, you can use the following command:
 
-This is the perfect representation of [Emily](https://www.pexels.com/photo/brown-monkey-321552/).
-
-Image: ![Monkey](pexels-oleksandr-pidvalnyi-321552.jpg)
-
-
-```js
-function lital() {
-     console.log("Hello");
-}
+```bash
+npm install
+npm run dev
 ```
-
 
