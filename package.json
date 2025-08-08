@@ -1,0 +1,23 @@
+{
+  "name": "Lital three.js first demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "three": "^0.179.1"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}
