@@ -11,3 +11,5 @@ npm install
 npm run dev
 ```
 
+# Mouse in maya breakdown 
+![maya breakdown](docs/Maya_breakdown.png)
