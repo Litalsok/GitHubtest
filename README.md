@@ -6,6 +6,7 @@ Prior to running the demo, ensure that the model file/s are placed in the 'model
 To run the mouse demo website, you can use the following command:
 
 ```bash
+git pull
 npm install
 npm run dev
 ```
